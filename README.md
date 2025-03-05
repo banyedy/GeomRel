@@ -13,7 +13,7 @@ To address this gap, we introduce the **GeomRel** dataset. GeomRel evaluates LLM
 - **Insights:** Highlights limitations in existing LLMs and suggests directions for improvement.
 
 ## Current Status
-Currently, the repository contains only the **GeomRel dataset**. Additional content, including documentation, code, and examples, will be uploaded soon.
+The complete **GeomRel dataset** is now available. You can test it by running `python evaluate.py`.
 
 ## Citation
 If you use GeomRel in your research, please cite us as follows:
@@ -28,3 +28,4 @@ If you use GeomRel in your research, please cite us as follows:
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2501.13773}, 
 }
+
